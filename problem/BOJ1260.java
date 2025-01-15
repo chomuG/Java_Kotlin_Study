@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class BOJ1260 {
+public class BOJ1260 {
+    public static void main(String[] args) {
+
+    }
 }
